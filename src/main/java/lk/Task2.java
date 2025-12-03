@@ -18,7 +18,7 @@ public class Task2 {
         list2.add(4);
 
         String combine = combineList(list,list2);
-        
+
 
 
 
